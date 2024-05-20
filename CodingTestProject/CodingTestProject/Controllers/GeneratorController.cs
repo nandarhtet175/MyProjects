@@ -61,6 +61,19 @@ namespace CodingTestProject.Controllers
             }
             return StatusCode(503);
         }
+        [HttpPost("/configure/{i:int}/{text}")]
+        public IActionResult Configure(int i, string text)
+        {
+            var validTexts = new HashSet<string> { "snare", "kick", "Hi-Hat", "Low Floor Tom", "cymbal", "Low-Mid Tom", "Bass Drum" };
+
+            if (!_config.ContainsKey(i) || !validTexts.Contains(text))
+            {
+                return BadRequest("Invalid configuration.");
+            }
+
+            _config[i] = text;
+            return Ok();
+        }
 
     }
 }

@@ -30,3 +30,36 @@ D:\_respo\HomeExam\CodingTestProject\CodingTestProject\obj\Debug\net8.0\refint\C
 D:\_respo\HomeExam\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.pdb
 D:\_respo\HomeExam\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.genruntimeconfig.cache
 D:\_respo\HomeExam\CodingTestProject\CodingTestProject\obj\Debug\net8.0\ref\CodingTestProject.dll
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\appsettings.Development.json
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\appsettings.json
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\CodingTestProject.exe
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\CodingTestProject.deps.json
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\CodingTestProject.runtimeconfig.json
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\CodingTestProject.dll
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\CodingTestProject.pdb
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.csproj.AssemblyReference.cache
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.AssemblyInfoInputs.cache
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.AssemblyInfo.cs
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.csproj.CoreCompileInputs.cache
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.MvcApplicationPartsAssemblyInfo.cs
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.MvcApplicationPartsAssemblyInfo.cache
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.sourcelink.json
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\staticwebassets\msbuild.CodingTestProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\staticwebassets\msbuild.build.CodingTestProject.props
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CodingTestProject.props
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CodingTestProject.props
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\scopedcss\bundle\CodingTestProject.styles.css
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.csproj.CopyComplete
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.dll
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\refint\CodingTestProject.dll
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.pdb
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\CodingTestProject.genruntimeconfig.cache
+D:\CV\Coding test\MyProjects\CodingTestProject\CodingTestProject\obj\Debug\net8.0\ref\CodingTestProject.dll
