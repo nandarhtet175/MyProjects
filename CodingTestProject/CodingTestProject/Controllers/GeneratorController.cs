@@ -14,6 +14,7 @@ namespace CodingTestProject.Controllers
             { 4, "snare" },
             { 12, "Hi-Hat" }
         };
+        private static bool _isReady = false;
         [HttpGet("/beatgenerator/{i:int}/{j:int}")]
         public IActionResult GetBeatPattern(int i, int j)
         {
@@ -44,6 +45,21 @@ namespace CodingTestProject.Controllers
             }
 
             return Ok(result);
+        }
+        [HttpGet("/livez")]
+        public IActionResult Livez()
+        {
+            return Ok();
+        }
+
+        [HttpGet("/readyz")]
+        public IActionResult Readyz()
+        {
+            if (_isReady)
+            {
+                return Ok();
+            }
+            return StatusCode(503);
         }
 
     }

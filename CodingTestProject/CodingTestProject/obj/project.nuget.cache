@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "boWsKDZuIYxtSU+3POmzeqQM3dbKAvdKftRaXEyaa7U7h9NwgMvuoevhLWIVnEw3oztuYlOVeAuYXm3brFon0w==",
+  "dgSpecHash": "Pp2/8ahpp4aX+GKStipIMSmSZsyET145g8MJv+vzesacsvor0cKrYCD8ZbsAUVm63X4KHLFie+JvxHsG3glB6g==",
   "success": true,
-  "projectFilePath": "D:\\_respo\\HomeExam\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj",
+  "projectFilePath": "D:\\CV\\Coding test\\MyProjects\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

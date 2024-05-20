@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_respo\\HomeExam\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj": {}
+    "D:\\CV\\Coding test\\MyProjects\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj": {}
   },
   "projects": {
-    "D:\\_respo\\HomeExam\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj": {
+    "D:\\CV\\Coding test\\MyProjects\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_respo\\HomeExam\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj",
+        "projectUniqueName": "D:\\CV\\Coding test\\MyProjects\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj",
         "projectName": "CodingTestProject",
-        "projectPath": "D:\\_respo\\HomeExam\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj",
+        "projectPath": "D:\\CV\\Coding test\\MyProjects\\CodingTestProject\\CodingTestProject\\CodingTestProject.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\_respo\\HomeExam\\CodingTestProject\\CodingTestProject\\obj\\",
+        "outputPath": "D:\\CV\\Coding test\\MyProjects\\CodingTestProject\\CodingTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
