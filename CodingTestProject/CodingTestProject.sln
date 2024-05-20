@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingTestProject", "CodingTestProject\CodingTestProject.csproj", "{08776CC6-B14A-4C3B-B471-2E328E5B0E87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatGeneratorFunction", "BeatGeneratorFunction\BeatGeneratorFunction.csproj", "{1BB71AD9-0FCF-4806-B47F-F84E13183901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeatGeneratorFunction", "BeatGeneratorFunction\BeatGeneratorFunction.csproj", "{1BB71AD9-0FCF-4806-B47F-F84E13183901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTriggeredFunction", "TimeTriggeredFunction\TimeTriggeredFunction.csproj", "{CA45AEE9-F20A-48A3-9363-9CD7E0AC8663}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1BB71AD9-0FCF-4806-B47F-F84E13183901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB71AD9-0FCF-4806-B47F-F84E13183901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB71AD9-0FCF-4806-B47F-F84E13183901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA45AEE9-F20A-48A3-9363-9CD7E0AC8663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA45AEE9-F20A-48A3-9363-9CD7E0AC8663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA45AEE9-F20A-48A3-9363-9CD7E0AC8663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA45AEE9-F20A-48A3-9363-9CD7E0AC8663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
