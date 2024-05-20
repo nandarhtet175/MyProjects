@@ -75,5 +75,27 @@ namespace CodingTestProject.Controllers
             return Ok();
         }
 
+        [HttpPost("/reset")]
+        public IActionResult Reset()
+        {
+            _config = new Dictionary<int, string>
+            {
+                { 1, "Low Floor Tom" },
+                { 3, "kick" },
+                { 4, "snare" },
+                { 12, "Hi-Hat" }
+            };
+
+            return Ok();
+        }
+        // A method to set the readiness of the server.
+        [HttpPost("/setready")]
+        public IActionResult SetReady([FromBody] bool ready)
+        {
+            _isReady = ready;
+            return Ok();
+        }
+
+
     }
 }
